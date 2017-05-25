@@ -9,7 +9,7 @@ The main difficulties are to **find mathematical expressions** and **optimize it
 ## **The render**
 
 
-[![Watch the demo video](./.readme_images/demo.png)](https://www.youtube.com/embed/c9iMmM2s15k)
+[![Watch the demo video](https://github.com/afanneau42/readme_ressources/blob/master/wolf3d/demo_wolf3d.png)](https://www.youtube.com/embed/c9iMmM2s15k)
 
 
 ## **Fractals availables**
